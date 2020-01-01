@@ -1,12 +1,12 @@
-# Basic
-title: 潘柏信
+﻿# Basic
+title:邱翔
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle:qiuxiangtalk
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 
+url: 
 
 # Comment
 comment:
@@ -16,13 +16,13 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # zhihu: panpanleopard
+    weibo: 
+    github: qiuxiang
+    # zhihu: 
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 
 
 
 # 百度统计 
@@ -71,5 +71,6 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+
 
 
